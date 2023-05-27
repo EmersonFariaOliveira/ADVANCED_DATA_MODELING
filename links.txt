@@ -1,0 +1,2 @@
+https://learn.microsoft.com/pt-br/azure/applied-ai-services/form-recognizer/concept-read?view=form-recog-3.0.0
+https://formrecognizer.appliedai.azure.com/studio/custommodel/projects
